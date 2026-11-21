@@ -1,0 +1,6 @@
+{
+  "name": "Jahidul Translate",
+  "description": "English to Bangla & Bangla to English translator with voice input, text-to-speech, illustrated vocabulary, 12 English tenses guide, history, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
